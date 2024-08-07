@@ -1,0 +1,14 @@
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\bin\Debug\net8.0\Pract.exe
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\bin\Debug\net8.0\Pract.deps.json
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\bin\Debug\net8.0\Pract.runtimeconfig.json
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\bin\Debug\net8.0\Pract.dll
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\bin\Debug\net8.0\Pract.pdb
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfoInputs.cache
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.AssemblyInfo.cs
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.csproj.CoreCompileInputs.cache
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.dll
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\refint\Pract.dll
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.pdb
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\Pract.genruntimeconfig.cache
+C:\!UserProgram\Microsoft Visual Studio\VSProjects\Pract\Pract\obj\Debug\net8.0\ref\Pract.dll

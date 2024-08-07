@@ -4,22 +4,29 @@
     {
         static void Main(string[] args)
         {
-            short rows = 20;
-            short seats = 15;
-            short firstSeatNumber = 01643;
-            short lastSeatNumber = (short)(firstSeatNumber + rows * seats - 1);
-            short inputNumber;
-            
-            while (!short.TryParse(Console.ReadLine(), out inputNumber) 
-                || inputNumber < firstSeatNumber 
-                || inputNumber > lastSeatNumber)
-            {
+           uint N = 0, k = 0, applesPerPupil;
 
-            }
-            float numberOfSeat = inputNumber - firstSeatNumber + 1;
-            int numberOfRow = (int)Math.Round(numberOfSeat / seats, MidpointRounding.ToPositiveInfinity);
-            Console.WriteLine($"Номер - {numberOfSeat}, ряд - {numberOfRow}");
+            CheckInput("Количество школьников N = ", ref N);
+            CheckInput("Число яблок в корзине k = ", ref k);
+
+            applesPerPupil = k / N;
             
+            Console.WriteLine($"Каждому школьнику достанется по {applesPerPupil} яблок, " +
+                $"в корзине останется {k - applesPerPupil * N} яблок");
+        }
+
+static void CheckInput(string message, ref uint var)
+        {
+            while (true)
+            {
+                Console.Write(message);
+                if (!uint.TryParse(Console.ReadLine(), out var))
+                {
+                    Console.WriteLine("Ошибка ввода, попробуйте снова\n");
+                    continue;
+                }
+                break;
+            }
         }
     }
 }
